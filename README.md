@@ -20,8 +20,9 @@ Currently building skills in Data Analytics.
 - NumPy
 - Matplotlib
 - Microsoft Excel
-- SQL (Learning)
-- Power BI (Learning)
+- SQL 
+- Power BI 
+- Tableau
 
 
 # My Work
