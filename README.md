@@ -34,8 +34,7 @@ https://github.com/tanishqsolanki7?tab=repositories
 
 # Resume
 
-[Click here to Download My Resume](https://drive.google.com/your-resume-link)
-
+https://drive.google.com/file/d/13XNVA66wgQwgPx4pztiZOrXFLd4mmEwf/view?usp=sharing
 
 # Connect With Me
 
