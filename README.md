@@ -9,7 +9,7 @@ Currently building skills in Data Analytics.
 
 - Fresher data analyst passionate about finding insights from data
 - Working with Python and data visualization tools
-- Building portfolio through real-world datasets from Kaggle
+- Building portfolio through real-world datasets
 - Open to data analyst opportunities
 
 
