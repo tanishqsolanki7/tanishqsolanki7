@@ -38,7 +38,7 @@ https://drive.google.com/file/d/13XNVA66wgQwgPx4pztiZOrXFLd4mmEwf/view?usp=shari
 
 # Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin-tanishq-solanki-4b3920230
+- LinkedIn: www.linkedin.com/in/tanishq-solanki-4b3920230
 - Email: tsolanki218@gmail.com
 
 <!--
