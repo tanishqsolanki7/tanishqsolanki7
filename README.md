@@ -38,8 +38,8 @@ https://drive.google.com/file/d/13XNVA66wgQwgPx4pztiZOrXFLd4mmEwf/view?usp=shari
 
 # Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin-username
-- Email: your-email@gmail.com
+- LinkedIn: https://linkedin.com/in/your-linkedin-tanishq-solanki-4b3920230
+- Email: tsolanki218@gmail.com
 
 <!--
 **tanishqsolanki7/tanishqsolanki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
