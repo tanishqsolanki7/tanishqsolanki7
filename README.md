@@ -16,9 +16,9 @@ Currently building skills in Data Analytics.
 # Skills
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib
+        - Pandas
+        - NumPy
+        - Matplotlib
 - Microsoft Excel
 - SQL 
 - Power BI 
