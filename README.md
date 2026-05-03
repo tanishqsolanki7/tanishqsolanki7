@@ -7,9 +7,10 @@ Currently building skills in Data Analytics.
 # Experience
 
 
-Data Analyst Intern
-  Ypsilon IT Solutions, September 2025 - March 2026
+Data Analyst Intern at Ypsilon IT Solutions, September 2025 - March 2026
+- Learned About Data Analytics.
 - Analyzed large datasets, applying statistical techniques to uncover actionable trends and present findings to project stakeholders.
+- Created Dashboards.
 
 # About Me
 
