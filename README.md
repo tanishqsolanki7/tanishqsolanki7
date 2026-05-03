@@ -4,6 +4,10 @@ B.Tech graduate in Electronics and Communication Engineering
 from Medi-Caps University, Indore.
 Currently building skills in Data Analytics.
 
+# Experience
+Data Analyst Intern
+Ypsilon IT Solutions, September 2025 - March 2026
+- Analyzed large datasets, applying statistical techniques to uncover actionable trends and present findings to project stakeholders.
 
 # About Me
 
