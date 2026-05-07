@@ -41,7 +41,7 @@ https://github.com/tanishqsolanki7?tab=repositories
 
 # Resume
 
-https://drive.google.com/file/d/1WVs8hLJEvvsOXRnuYz9beO-NGGMb3lId/view?usp=sharing
+https://drive.google.com/file/d/1rbCAjw_OVOUn5ZAR7S3xkGIWStiRSa7G/view?usp=sharing
 
 # Connect With Me
 
